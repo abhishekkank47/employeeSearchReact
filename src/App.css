@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", serif;
+}
+
+body{
+  background: rgb(6,233,237);
+background: linear-gradient(274deg, rgb(246, 248, 248) 0%, rgb(234, 209, 233) 100%);
+}
+
+.employe-card{
+  position: relative;
+  padding: 20px 20px 0 20px;
+  
+background: rgb(212, 229, 229);
+background: linear-gradient(274deg, rgb(213, 222, 222) 0%, rgb(193, 204, 204) 100%);
+}

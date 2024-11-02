@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Amit Sharma",
+        "designation": "Frontend Developer",
+        "emailId": "amit.sharma@example.com",
+        "details": "Specializes in React and UI/UX design.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Priya Nair",
+        "designation": "Backend Developer",
+        "emailId": "priya.nair@example.com",
+        "details": "Experienced with Node.js and Express.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Rajesh Patel",
+        "designation": "Full Stack Developer",
+        "emailId": "rajesh.patel@example.com",
+        "details": "Skilled in MERN stack development.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Ankita Singh",
+        "designation": "Frontend Developer",
+        "emailId": "ankita.singh@example.com",
+        "details": "Expert in Vue.js and responsive design.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Rohan Mehta",
+        "designation": "Database Administrator",
+        "emailId": "rohan.mehta@example.com",
+        "details": "Manages SQL and NoSQL databases.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Megha Verma",
+        "designation": "Data Analyst",
+        "emailId": "megha.verma@example.com",
+        "details": "Data visualization and analysis expert.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Deepak Kumar",
+        "designation": "Software Engineer",
+        "emailId": "deepak.kumar@example.com",
+        "details": "Proficient in C++ and Java development.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Sara Ahmed",
+        "designation": "Project Manager",
+        "emailId": "sara.ahmed@example.com",
+        "details": "Leads project management and coordination.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Manish Yadav",
+        "designation": "Quality Assurance Engineer",
+        "emailId": "manish.yadav@example.com",
+        "details": "Ensures quality and standards in software.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Nisha Kapoor",
+        "designation": "HR Specialist",
+        "emailId": "nisha.kapoor@example.com",
+        "details": "Manages recruitment and employee relations.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Vikas Chawla",
+        "designation": "Security Analyst",
+        "emailId": "vikas.chawla@example.com",
+        "details": "Handles IT security and data protection.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Pooja Mishra",
+        "designation": "UI/UX Designer",
+        "emailId": "pooja.mishra@example.com",
+        "details": "Designs user interfaces and experiences.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Karan Desai",
+        "designation": "Machine Learning Engineer",
+        "emailId": "karan.desai@example.com",
+        "details": "Builds and optimizes ML algorithms.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Reena Thakur",
+        "designation": "DevOps Engineer",
+        "emailId": "reena.thakur@example.com",
+        "details": "Expert in CI/CD and cloud infrastructure.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Aakash Joshi",
+        "designation": "Software Developer",
+        "emailId": "aakash.joshi@example.com",
+        "details": "Specializes in Python and Django.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Sunita Chauhan",
+        "designation": "Content Writer",
+        "emailId": "sunita.chauhan@example.com",
+        "details": "Creates technical and marketing content.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Vikram Malhotra",
+        "designation": "Network Engineer",
+        "emailId": "vikram.malhotra@example.com",
+        "details": "Responsible for network infrastructure.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Arun Jain",
+        "designation": "Technical Support",
+        "emailId": "arun.jain@example.com",
+        "details": "Provides tech support and troubleshooting.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Shalini Gupta",
+        "designation": "Product Owner",
+        "emailId": "shalini.gupta@example.com",
+        "details": "Owns product vision and roadmap.",
+        "status": "inactive",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    },
+    {
+        "name": "Anil Tiwari",
+        "designation": "Business Analyst",
+        "emailId": "anil.tiwari@example.com",
+        "details": "Analyzes business requirements and solutions.",
+        "status": "active",
+        "profileImg": "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png"
+    }
+]
